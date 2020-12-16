@@ -2,4 +2,25 @@
 
 <img src="manon.PNG" alt="Manon works" />
 
-I'm Manon, I'm 24, and I'm new to web development and coding. Now that I finished my web development formation with O'Clock (a great full-remote school!), I'm looking for a job while I develop my own website (repo : Front-Portfolio) with React. You can also take a look at my Memescalibur repositories and small projects I add week after week. 
+:octocat: Manon
+
+:baby:  25 
+
+:tulip:  Web developer, front-end lover
+
+:computer:  Javascript, React, Next, Node
+
+:lipstick:  HTML, CSS, Adobe Photoshop, Procreate, Adobe Draw, Adobe XD
+
+:briefcase:  Currently working with Le Qoqo, available on February
+
+:musical_keyboard:  Hobby 1 (lol) > singing, playing guitar and electronic music
+
+:pencil:  Hobby 2 > drawing 
+
+:earth_asia:  Hobby 3 > travel the world
+
+
+You can contact me on Linked In if you wish to talk and learn more about me :blush:
+
+
