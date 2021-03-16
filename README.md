@@ -1,26 +1,7 @@
 ### Hi there 👋
 
-<img src="manon.PNG" alt="Manon works" />
+<img src="manon.png" alt="Manon works" />
 
-:octocat: Manon
-
-:baby:  25 
-
-:tulip:  Web developer, front-end lover
-
-:computer:  Javascript, React, Next, Node
-
-:lipstick:  HTML, CSS, Adobe Photoshop, Procreate, Adobe Draw, Adobe XD
-
-:briefcase:  Currently working with Le Qoqo, available on February
-
-:musical_keyboard:  Hobby 1 (lol) > singing, playing guitar and electronic music
-
-:pencil:  Hobby 2 > drawing 
-
-:earth_asia:  Hobby 3 > travel the world
-
-
-You can contact me on Linked In if you wish to talk and learn more about me :blush:
+Welcome on my Github page ! Wanna learn a little more about me ? Well, I'm Manon, I'm 25, I live in France but dream about living somewhere else in the world to discover new landscapes and cultures. I'm a dog person, but I only have cats. I listen to a lot of different music styles but my favorites are pop, electro pop, but I also like rap, classic, and rock. I also love movies soundtracks. Ok let's be clear : I love music. I'm a video games addict, if I were a Twitch streamer I'd probably be the only one streaming Destiny "let's play" ! Oh. And I'm a web developer. 
 
 
