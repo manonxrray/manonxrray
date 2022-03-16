@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![Working mnou banner](manon.PNG)
+![Working mnou banner](githubhead.png)
 
 Welcome on my Github page !
-
-
-
